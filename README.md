@@ -1,7 +1,7 @@
 <h1 align="center">NETFLIX-CHECKER</h1>
 <h3 align="center">By Nouredine Kaoine</h3>
-<hr>
-<h1> How to Use</h1>
+<hr align="center">
+<h1 align="center"> How to Use</h1>
 
 
 <h1> install requirements </h1>
