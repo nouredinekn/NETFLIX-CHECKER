@@ -20,9 +20,17 @@
 
 
 </p>
+ <h1> put telegram token </h1>
+
+<p align="left"> 
+
+           open  telegram file and put 
+           <yout_token>|<your_id>
+                  
+           
 
 
-
+</p>
 
 
 
