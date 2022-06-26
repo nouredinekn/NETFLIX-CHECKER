@@ -17,9 +17,18 @@
 <p align="left"> 
 
            $ pip install requests
+           
 
 
 </p>
+<h1> install Chrom< /h1>
+<p align="left"> 
+
+           run ChromeSetup.exe and Setup it
+
+
+</p>
+           
  <h1> put telegram token </h1>
 
 <p align="left"> 
