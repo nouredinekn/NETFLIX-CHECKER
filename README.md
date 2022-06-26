@@ -22,12 +22,12 @@
 
 </p>
 <h1> install Chrom </h1>
-<p align="left"> 
+<h1><p align="left"> 
 
-           <h1>run ChromeSetup.exe and Setup it</h1>
+           run ChromeSetup.exe and Setup it
 
 
-</p>
+</p></h1>
            
  <h1> put telegram token </h1>
 
