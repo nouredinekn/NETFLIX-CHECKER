@@ -4,7 +4,22 @@
 <h1> How to Use</h1>
 
 
+<h1> install requirements </h1>
 
+
+<p align="left"> 
+
+           $ pip install selenium 
+           
+
+
+</p>
+<p align="left"> 
+
+           $ pip install requests
+
+
+</p>
 
 
 
